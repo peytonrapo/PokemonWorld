@@ -1,0 +1,6 @@
+java/PC.java
+ java.PC
+java/Pokemon.java
+ java.Pokemon
+java/Trainer.java
+ java.Trainer
